@@ -1,6 +1,6 @@
 def Prime(n):
 	list1 = [2,3,5,7]
-	for x in xrange(11,n/2,2):
+	for x in xrange(11,n,2):
 		if x%3==0 or x%5==0 or x%7==0:
 			pass
 		else:
