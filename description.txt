@@ -1,0 +1,23 @@
+########################################Prime Number#########################################
+
+Hello everyone her i am providing the most efficient algo for finding prime numbers.
+The way this program work it provide best case with complixcity of (3n/2).
+Now on this program.
+In the first line an list name as List contain all prime number which exist in between 0 to 9
+which is 2,3,5 and 7. but the fact is why i will take that before is because all the integers are the combination of 0 to 9 so if any 
+number which is devidable by all the prime number present in between 0 to 9 can devide any number than that number never be an prime
+number else it will be a prime.
+so if the condition is true than it will append those prime number in the same list.
+Now here is another question is that why this loop has increment with 2 in place of 1, so here we know that there is 0 percent posssibility
+that any even number is a prime number so we just need odd number to find out that it is prime or not.
+It's all about this program.
+
+
+
+
+
+Develop by -ram mohan
+contact- 8853326945
+email - mohanlns@yahoo.com
+               or
+       raaamnaaam@gmail.com
